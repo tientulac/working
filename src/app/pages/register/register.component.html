@@ -1,0 +1,71 @@
+<div class="limiter">
+  <div class="container-login100">
+    <div class="wrap-login100">
+      <form
+        [formGroup]="registerForm"
+        class="login100-form validate-form"
+        style="padding-top: 70px !important;"
+      >
+        <img
+          src="/assets/img/thienan.png"
+          style="
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+          "
+          class="center"
+        />
+        <span class="login100-form-title p- -43" style="margin-bottom: 30px;">
+          Cổng tuyển sinh
+        </span>
+        <label class="label_login"
+          ><i class="fas fa-user"></i> &nbsp; Tài khoản
+        </label>
+        <div class="wrap-input100 validate-input" style="height: 45px;">
+          <input
+            class="input100"
+            placeholder="Nhập tên tài khoản"
+            formControlName="UserName"
+            type="text"
+          />
+          <span class="focus-input100"></span>
+        </div>
+        <label class="label_login"
+          ><i class="fas fa-envelope-square"></i> &nbsp; Email
+        </label>
+        <div class="wrap-input100 validate-input" style="height: 45px;">
+          <input
+            class="input100"
+            type="email"
+            formControlName="Email"
+            placeholder="Nhập email"
+          />
+          <span class="focus-input100"></span>
+        </div>
+        <div class="container-login100-form-btn" style="margin-top: 30px;">
+          <button
+            class="login100-form-btn"
+         
+            style="height: 45px;"
+          >
+            Lấy lại mật khẩu
+          </button>
+        </div>
+        <div>
+          <p
+            [routerLink]="['/login']"
+            class="registertxt"
+            style="text-align: center;"
+          >
+            Đăng nhập
+          </p>
+        </div>
+      </form>
+      <div
+        class="login100-more"
+        style="background-image: url('/assets/img/bg-login.jpg');"
+      ></div>
+    </div>
+  </div>
+</div>

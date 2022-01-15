@@ -1,0 +1,223 @@
+{
+    "Data": [{
+        "ID_loai_kiem_dinh":1,
+        "Ma_loai_kiem_dinh": "KH1",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 01",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":2,
+        "Ma_loai_kiem_dinh": "KH2",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 02",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":3,
+        "Ma_loai_kiem_dinh": "KH3",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 03",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":1,
+        "Ma_loai_kiem_dinh": "KH1",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 01",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":2,
+        "Ma_loai_kiem_dinh": "KH2",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 02",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":3,
+        "Ma_loai_kiem_dinh": "KH3",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 03",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":1,
+        "Ma_loai_kiem_dinh": "KH1",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 01",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":2,
+        "Ma_loai_kiem_dinh": "KH2",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 02",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":3,
+        "Ma_loai_kiem_dinh": "KH3",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 03",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":1,
+        "Ma_loai_kiem_dinh": "KH1",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 01",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":2,
+        "Ma_loai_kiem_dinh": "KH2",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 02",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":3,
+        "Ma_loai_kiem_dinh": "KH3",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 03",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":1,
+        "Ma_loai_kiem_dinh": "KH1",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 01",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":2,
+        "Ma_loai_kiem_dinh": "KH2",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 02",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":3,
+        "Ma_loai_kiem_dinh": "KH3",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 03",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":1,
+        "Ma_loai_kiem_dinh": "KH1",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 01",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":2,
+        "Ma_loai_kiem_dinh": "KH2",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 02",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":3,
+        "Ma_loai_kiem_dinh": "KH3",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 03",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":1,
+        "Ma_loai_kiem_dinh": "KH1",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 01",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":2,
+        "Ma_loai_kiem_dinh": "KH2",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 02",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":3,
+        "Ma_loai_kiem_dinh": "KH3",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 03",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":1,
+        "Ma_loai_kiem_dinh": "KH1",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 01",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":2,
+        "Ma_loai_kiem_dinh": "KH2",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 02",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":3,
+        "Ma_loai_kiem_dinh": "KH3",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 03",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":1,
+        "Ma_loai_kiem_dinh": "KH1",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 01",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":2,
+        "Ma_loai_kiem_dinh": "KH2",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 02",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":3,
+        "Ma_loai_kiem_dinh": "KH3",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 03",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":1,
+        "Ma_loai_kiem_dinh": "KH1",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 01",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":2,
+        "Ma_loai_kiem_dinh": "KH2",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 02",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":3,
+        "Ma_loai_kiem_dinh": "KH3",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 03",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":1,
+        "Ma_loai_kiem_dinh": "KH1",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 01",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":2,
+        "Ma_loai_kiem_dinh": "KH2",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 02",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":3,
+        "Ma_loai_kiem_dinh": "KH3",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 03",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":1,
+        "Ma_loai_kiem_dinh": "KH1",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 01",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":2,
+        "Ma_loai_kiem_dinh": "KH2",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 02",
+        "Ghi_chu":"Không có 01"
+    },
+    {
+        "ID_loai_kiem_dinh":3,
+        "Ma_loai_kiem_dinh": "KH3",
+        "Ten_loai_kiem_dinh":"Loại kiểm định 03",
+        "Ghi_chu":"Không có 01"
+    }
+    ],
+    "CountFilter": 10
+
+
+}
+

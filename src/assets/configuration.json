@@ -1,0 +1,5 @@
+{
+  "production": false,
+  "System_API": "http://118.70.120.226:800/UniSystemAPIDorm/",
+  "QA_API": "http://localhost:50223/"
+}

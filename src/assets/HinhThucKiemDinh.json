@@ -1,0 +1,14 @@
+[
+    {
+        "ID_hinh_thuc_kiem_dinh": 1, 
+        "Ma_hinh_thuc_kiem_dinh": "HTKD1", 
+        "Ten_hinh_thuc_kiem_dinh": "Kiểm tra đánh giá trong", 
+        "Ghi_chu_hinh_thuc_kiem_dinh": "Không" 
+    },
+    {
+        "ID_hinh_thuc_kiem_dinh": 2, 
+        "Ma_hinh_thuc_kiem_dinh": "HTKD2", 
+        "Ten_hinh_thuc_kiem_dinh": "Kiểm tra đánh giá ngoài", 
+        "Ghi_chu_hinh_thuc_kiem_dinh": "Không" 
+    }
+]

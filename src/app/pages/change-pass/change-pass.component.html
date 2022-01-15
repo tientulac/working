@@ -1,0 +1,60 @@
+<section class="content-header">
+    <div class="container-fluid">
+      <div class="row mb-2">
+        <ol class="breadcrumb float-sm-right">
+          <li class="breadcrumb-item"><a [routerLink]="['/#/']"><i class="fas fa-home"></i> &nbsp;Trang chủ</a></li>
+          <li class="breadcrumb-item active">Đổi mật khẩu</li>
+        </ol>
+      </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+  </section>
+  <section class="content">
+    <div class="card-body login-card-body" style="height:1000px">
+      <form [formGroup]="ChangePassForm">
+        <div class="row cus-row">
+          <div class="col-md-4">
+            <label><i class="fas fa-key"></i>&nbsp; Mật khẩu cũ: </label>
+          </div>
+          <div class="col-md-8">
+            <input formControlName="Password" type="password" class="form-control" placeholder="Mật khẩu hiện tại" />
+          </div>
+        </div>
+        <div class="row cus-row">
+          <div class="col-md-4">
+            <label><i class="fas fa-unlock-alt"></i> &nbsp; Mật khẩu mới: </label>
+          </div>
+          <div class="input-group col-md-8">
+            <input formControlName="Password2" id="password2" type="{{isPassword ? 'password' : 'text' }}" class="form-control" placeholder="Mật khẩu mới" />
+            <div class="input-group-append">
+              <span (click)="show()" class="input-group-text"><i class="far fa-eye"></i></span>
+            </div>
+          </div>
+        </div>
+        <div class="row cus-row">
+          <div class="col-md-4">
+            <label><i class="fas fa-lock"></i> &nbsp; Nhập lại mật khẩu mới: </label>
+          </div>
+          <div class="input-group col-md-8">
+            <input formControlName="Password3" type="{{isPassword ? 'password' : 'text' }}" class="form-control" placeholder="Nhập lại mật khẩu mới" />
+            <div class="input-group-append">
+              <span (click)="show()" class="input-group-text"><i class="far fa-eye"></i></span>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <label style="color: red;"> {{TitleVal}} </label>
+          </div>
+        </div>
+        <div class="row cus-row">
+          <!-- /.col -->
+          <button (click)="ChangePass()" type="submit" class="btn btn-outline-primary btn-block btn-flat"
+            style="border-radius: 12px;">
+            Đổi mật khẩu
+          </button>
+          <!-- /.col -->
+        </div>
+      </form>
+    </div>
+    <!-- /.row -->
+  </section>

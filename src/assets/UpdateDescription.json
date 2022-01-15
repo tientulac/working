@@ -1,0 +1,21 @@
+
+[
+    {
+        "Version": "1.2.1.3",
+        "Date":"08/10/2020",
+        "Detail": [
+            "Bổ sung chức năng phân quyền",
+            "Bổ sung chức năng tra cứu log người dùng",
+            "Cập nhật một số giao diện khác"
+        ]
+    },
+    {
+        "Version": "1.0.0.0",
+        "Date":"01/10/2020",
+        "Detail": [
+            "Sửa đổi giao diện các chức năng",
+            "Tối ưu hóa tốc độ xử lý",
+            "Bổ sung chức năng danh sách hạn chế"
+        ]
+    }
+]
